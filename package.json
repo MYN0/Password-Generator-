@@ -1,0 +1,35 @@
+{
+  "name": "passowrd",
+  "version": "1.0.0",
+  "description": "A simple but cool password generator",
+  "main": "lib/index.js",
+  "type": "module",
+  "keywords": [
+    "password",
+    "password-generator",
+    "generate-password",
+    "random-password",
+    "simple-password",
+    "generate-password",
+    "best",
+    "npm",
+    "javascript",
+    "node"
+  ],
+  "readme": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alphabet": "^1.0.0",
+    "docker-names": "^1.2.1",
+    "generate-password": "^1.7.0",
+    "mongoose": "^6.3.0"
+  }
+}
