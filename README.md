@@ -1,9 +1,9 @@
 # Password-generator!
 
-[![Generate-Password NPM](https://nodei.co/npm/generate-password.png?downloads=true&downloadRank=true)](http://npmjs.org/package/generate-password)
+[![Generate-Password NPM](https://nodei.co/npm/@myno_21/password-generator.png?downloads=true&downloadRank=true)](http://npmjs.org/package/@myno_21/password-generator)
 
-[![Version](https://img.shields.io/npm/v/@myno_21/formatted-duration.svg)](https://www.npmjs.com/package/@myno_21/formatted-duration)
-[![Downloads](https://img.shields.io/npm/dt/@myno_21/formatted-duration.svg)](https://www.npmjs.com/package/@myno_21/formatted-duration)
+[![Version](https://img.shields.io/npm/v/@myno_21/password-generator)](https://www.npmjs.com/package/@myno_21/password-generator)
+[![Downloads](https://img.shields.io/npm/dt/@myno_21/password-generator)](https://www.npmjs.com/package/@myno_21/password-generator)
 
 > 📜 Generates random passwords with some really cool options such as limit,includes etc.
 
